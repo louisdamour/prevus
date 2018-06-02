@@ -31,26 +31,6 @@ Discarded input sections
 
  .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
  .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
  .text          0x00000000        0x0 stack/phy/atmegarfr2/src/phy.o
  .data          0x00000000        0x0 stack/phy/atmegarfr2/src/phy.o
  .bss           0x00000000        0x0 stack/phy/atmegarfr2/src/phy.o
@@ -60,55 +40,11 @@ Discarded input sections
                 0x00000000        0x8 stack/phy/atmegarfr2/src/phy.o
  .text.PHY_SetTxPower
                 0x00000000       0x10 stack/phy/atmegarfr2/src/phy.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
- .group         0x00000000        0x8 urubus.o
  .text          0x00000000        0x0 urubus.o
  .data          0x00000000        0x0 urubus.o
  .bss           0x00000000        0x0 urubus.o
+ .text.red      0x00000000        0xa urubus.o
  .text.magenta  0x00000000        0xa urubus.o
- .text.yellow   0x00000000        0xa urubus.o
- .debug_macro   0x00000000      0xa90 urubus.o
- .debug_macro   0x00000000       0x40 urubus.o
- .debug_macro   0x00000000      0x1c9 urubus.o
- .debug_macro   0x00000000       0x22 urubus.o
- .debug_macro   0x00000000       0x10 urubus.o
- .debug_macro   0x00000000      0x302 urubus.o
- .debug_macro   0x00000000       0x9e urubus.o
- .debug_macro   0x00000000     0x37d1 urubus.o
- .debug_macro   0x00000000      0x219 urubus.o
- .debug_macro   0x00000000       0xd9 urubus.o
- .debug_macro   0x00000000       0x34 urubus.o
- .debug_macro   0x00000000       0x18 urubus.o
- .debug_macro   0x00000000       0x6c urubus.o
- .debug_macro   0x00000000       0x68 urubus.o
- .debug_macro   0x00000000       0x69 urubus.o
- .debug_macro   0x00000000       0x10 urubus.o
- .debug_macro   0x00000000       0x89 urubus.o
- .debug_macro   0x00000000      0x181 urubus.o
- .debug_macro   0x00000000       0x34 urubus.o
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
@@ -466,10 +402,10 @@ END GROUP
  .text.init_UART
                 0x00000354       0x1c urubus.o
                 0x00000354                init_UART
- .text.red      0x00000370        0xa urubus.o
-                0x00000370                red
- .text.cyan     0x0000037a        0xa urubus.o
-                0x0000037a                cyan
+ .text.cyan     0x00000370        0xa urubus.o
+                0x00000370                cyan
+ .text.yellow   0x0000037a        0xa urubus.o
+                0x0000037a                yellow
  .text.APP_TaskHandler
                 0x00000384      0x13c urubus.o
  .text.off      0x000004c0        0x8 urubus.o
@@ -639,51 +575,33 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000       0xd0
+.debug_aranges
  *(.debug_aranges)
- .debug_aranges
-                0x00000000       0x60 stack/phy/atmegarfr2/src/phy.o
- .debug_aranges
-                0x00000060       0x70 urubus.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x1f3d
+.debug_info     0x00000000     0x13e6
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000     0x13e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
- .debug_info    0x000013e6      0x6bd stack/phy/atmegarfr2/src/phy.o
- .debug_info    0x00001aa3      0x49a urubus.o
 
-.debug_abbrev   0x00000000     0x17c7
+.debug_abbrev   0x00000000     0x12d6
  *(.debug_abbrev)
  .debug_abbrev  0x00000000     0x12d6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
- .debug_abbrev  0x000012d6      0x288 stack/phy/atmegarfr2/src/phy.o
- .debug_abbrev  0x0000155e      0x269 urubus.o
 
-.debug_line     0x00000000      0xd0a
+.debug_line     0x00000000      0x271
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000      0x271 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
- .debug_line    0x00000271      0x4fe stack/phy/atmegarfr2/src/phy.o
- .debug_line    0x0000076f      0x59b urubus.o
 
-.debug_frame    0x00000000      0x1ac
+.debug_frame
  *(.debug_frame)
- .debug_frame   0x00000000       0xb4 stack/phy/atmegarfr2/src/phy.o
- .debug_frame   0x000000b4       0xf8 urubus.o
 
-.debug_str      0x00000000    0x1063b
+.debug_str      0x00000000      0x7f7
  *(.debug_str)
  .debug_str     0x00000000      0x7f7 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega256rfr2/avr6/crtatmega256rfr2.o
- .debug_str     0x000007f7     0xf90d stack/phy/atmegarfr2/src/phy.o
-                               0xfa66 (size before relaxing)
- .debug_str     0x00010104      0x537 urubus.o
-                               0xeaac (size before relaxing)
 
-.debug_loc      0x00000000      0x3fb
+.debug_loc
  *(.debug_loc)
- .debug_loc     0x00000000      0x199 stack/phy/atmegarfr2/src/phy.o
- .debug_loc     0x00000199      0x262 urubus.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -703,40 +621,10 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000       0xb0
+.debug_ranges
  *(.debug_ranges)
- .debug_ranges  0x00000000       0x50 stack/phy/atmegarfr2/src/phy.o
- .debug_ranges  0x00000050       0x60 urubus.o
 
-.debug_macro    0x00000000     0x545a
+.debug_macro
  *(.debug_macro)
- .debug_macro   0x00000000      0x106 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00000106      0xa90 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00000b96      0x1c9 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00000d5f       0x10 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00000d6f      0x302 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00001071       0x9e stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x0000110f     0x37d1 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x000048e0      0x219 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004af9       0xd9 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004bd2       0x34 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004c06       0x18 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004c1e       0x6c stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004c8a       0x68 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004cf2       0x69 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004d5b       0x10 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004d6b       0x89 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004df4      0x181 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004f75       0x34 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004fa9       0x22 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00004fcb       0x40 stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x0000500b      0x27e stack/phy/atmegarfr2/src/phy.o
- .debug_macro   0x00005289      0x159 urubus.o
- .debug_macro   0x000053e2       0x10 urubus.o
- .debug_macro   0x000053f2       0x10 urubus.o
- .debug_macro   0x00005402       0x10 urubus.o
- .debug_macro   0x00005412       0x1c urubus.o
- .debug_macro   0x0000542e       0x1c urubus.o
- .debug_macro   0x0000544a       0x10 urubus.o
 OUTPUT(Template.elf elf32-avr)
 LOAD linker stubs

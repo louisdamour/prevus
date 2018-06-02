@@ -22,8 +22,8 @@ Pour compiler et programmer un microcontrôleur, il faut suivre les étapes suiv
  * Démarrer Atmel Studio 7
  * Fichier->Ouvrir->Projet/Solution
  * Sélectionner le fichier C:\Users\louis\Desktop\prevus\prevus\URUBUS\URUBUS\URUBUS\astudio\URUBUS.atsln
- * Tools->Add target...
- * Choisir d'abord STK500 puis le port série souhaité
+ * Debug->URUBUS Properties, puis Tool
+ * Choisir EDBG - ATMLxxxxxxx en fonction du microcontrôleur qu'on souhaite programmer.
  * Build URUBUS ou Solution (F7)
  * Run without debugging (CTRL-ALT-F5)
  

@@ -36,13 +36,15 @@ static void APP_TaskHandler(void)
 
 	  if(receivedUart == 'a')	//est-ce que le caractere recu est 'a'? 
 		{
-		uint8_t demonstration_string[128] = "Hello World!"; //data packet bidon
+		uint8_t demonstration_string[128] = "Hello World?"; //data packet bidon
 		Ecris_Wireless(demonstration_string, 12); //envoie le data packet; nombre d'éléments utiles du paquet à envoyer
+		yellow();
 		}
   }
 
   if(receivedWireless == 1) //est-ce qu'un paquet a été recu sur le wireless? 
   {
+	cyan();
 	char buf[196];
 
 //si quelqu'un a une méthode plus propre / mieux intégrée à proposer pour faire des "printf" avec notre fonction Ecris_UART, je veux bien l'entendre! 

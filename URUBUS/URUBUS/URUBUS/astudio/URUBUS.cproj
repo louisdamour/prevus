@@ -90,6 +90,31 @@
     <avrtoolserialnumber>ATML1784031800001087</avrtoolserialnumber>
     <avrdeviceexpectedsignature>0x1EA802</avrdeviceexpectedsignature>
     <avrtoolinterfaceclock>220000</avrtoolinterfaceclock>
+    <custom>
+      <ToolOptions>
+        <InterfaceProperties>
+          <JtagDbgClock>220000</JtagDbgClock>
+        </InterfaceProperties>
+        <InterfaceName>
+        </InterfaceName>
+      </ToolOptions>
+      <ToolType>custom</ToolType>
+      <ToolNumber>
+      </ToolNumber>
+      <ToolName>Custom Programming Tool</ToolName>
+    </custom>
+    <com_atmel_avrdbg_tool_stk500>
+      <ToolOptions xmlns="">
+        <InterfaceProperties>
+        </InterfaceProperties>
+        <InterfaceName>
+        </InterfaceName>
+      </ToolOptions>
+      <ToolType xmlns="">com.atmel.avrdbg.tool.stk500</ToolType>
+      <ToolNumber xmlns="">
+      </ToolNumber>
+      <ToolName xmlns="">STK500</ToolName>
+    </com_atmel_avrdbg_tool_stk500>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <OutputFileName>Template</OutputFileName>
