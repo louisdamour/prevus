@@ -7,11 +7,24 @@ Pour utiliser/modifier/tester le code, il faut installer le logiciel Atmel Studi
 
 Des tutoriels sont disponibles ici: https://eewiki.net/display/Wireless/ATmega256RFR2+Xplained+Pro
 
-Pour importer le projet dans Atmel Studio, on doit ouvrir le fichier prevus\2016-07-11_Template\apps\Template\astudio\XplainedPro_ATmega256rfr2.cproj
-
 ## Branches
 
 Pour essayer de garder le tout fluide, on va essayer de se fixer ces guidelines:
 
 	- La branche _master_ contient du code toujours fonctionnel. On doit valider le code avant de l'intégrer à cette branche (voir Airtable).
 	- On crée une autre branche avec un nom adéquat pour travailler sur un nouveau feature. On essaye de créer UNE branche PAR feature pour être cohérent.
+
+# Guide de compilation
+
+Pour compiler et programmer un microcontrôleur, il faut suivre les étapes suivantes:
+
+ * Brancher le microcontrôleur à l'aide du câble USB
+ * Démarrer Atmel Studio 7
+ * Fichier->Ouvrir->Projet/Solution
+ * Sélectionner le fichier C:\Users\louis\Desktop\prevus\prevus\URUBUS\URUBUS\URUBUS\astudio\URUBUS.atsln
+ * Tools->Add target...
+ * Choisir d'abord STK500 puis le port série souhaité
+ * Build URUBUS ou Solution (F7)
+ * Run without debugging (CTRL-ALT-F5)
+ 
+Voilà!
