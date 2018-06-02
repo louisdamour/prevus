@@ -1,6 +1,11 @@
 # prevus
 Répositoire qui contient le code du microcontrôleur Atmel.
 
+## Logiciel
+
+Pour utiliser/modifier/tester le code, il faut installer le logiciel Atmel Studio 7: http://www.microchip.com/mplab/avr-support/atmel-studio-7
+Des tutoriels sont disponibles ici: https://eewiki.net/display/Wireless/ATmega256RFR2+Xplained+Pro
+
 ## Branches
 
 Pour essayer de garder le tout fluide, on va essayer de se fixer ces guidelines:
